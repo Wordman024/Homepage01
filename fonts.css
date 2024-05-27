@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: rgb(104, 189, 161);
+    background-color: rgb(100, 204, 209);
     padding: 5px 5px 5px 5px;
     
 
@@ -47,13 +47,15 @@ body {
     display:flex;
     border-radius: 18px;
     border-width: 1px;
-    border-style: dashed;
+    border-style:solid;
     border-color: black;
     box-shadow: 4px 5px 5px rgb(165, 154, 126);
     background-color: rgb(240, 147, 33);
     width: 220px;
     padding: 4px 2px 10px 12px;
     margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
     
 }
 
@@ -87,7 +89,7 @@ body {
     display: flex;
     border-style: dotted;
     border-width: 1px;
-    border-color:rgb(104, 189, 161);
+    border-color:rgb(100, 204, 209);
     height: 40px;
     margin-bottom: 4px;
     
@@ -97,21 +99,21 @@ body {
 
 
 .one {
-    border-style: dotted;
-    border-color: black;
+    border-style: solid;
+    border-color: rgb(100, 204, 209);
     border-width: 1px;
-    background-color: rgb(208, 191, 114);
-    height: 28px;
+    background-color: rgb(100, 204, 209);
+    height: 9px;
     width: 300px;
     border-radius: 18px;
     margin-left: 70px;
     margin-right: 15px;
-    margin-top: 6px;
+    margin-top: 20px;
     margin-bottom: 4px;
 }
 
 .two {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(161, 218, 141);
@@ -125,7 +127,7 @@ body {
 
 
 .three {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(169, 146, 117);
@@ -137,7 +139,7 @@ body {
 }
 
 .four {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(126, 229, 95);
@@ -149,7 +151,7 @@ body {
 }
 
 .five {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(57, 150, 105);
@@ -164,7 +166,7 @@ body {
 
 
 .six {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(144, 186, 222);
@@ -175,7 +177,7 @@ body {
 }
 
 .seven {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px; 
     background-color: rgb(162, 162, 35);
@@ -188,7 +190,7 @@ body {
 }
 
 .eight {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px; 
     background-color: rgb(96, 144, 172);
@@ -209,18 +211,18 @@ body {
     display: flex;
     border-style: dotted;
     border-width: 1px;
-    border-color:rgb(104, 189, 161);
+    border-color:rgb(100, 204, 209);
     height: 30px;
     padding-top: 3px;
 
 }
 
 .ten {
-    border-style: dotted;
-    border-color: black;
+    border-style: solid;
+    border-color:  rgb(100, 204, 209);
     border-width: 1px;
-    background-color: rgb(145, 104, 43);
-    height: 36px;
+    background-color:  rgb(100, 204, 209);
+    height: 17px;
     width: 180px;
     border-radius: 20px;
     margin-left: 30px;
@@ -229,11 +231,11 @@ body {
 }
 
 .eleven {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(222, 150, 56);
-    height: 13px;
+    height: 12px;
     width: 510px;
     border-radius: 25px;
     margin-right: 15px;
@@ -242,7 +244,7 @@ body {
 
 
 .twelve {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(206, 91, 45);
@@ -254,7 +256,7 @@ body {
 }
 
 .thirteen {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(46, 175, 162);
@@ -266,7 +268,7 @@ body {
 }
 
 .fourteen {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(162, 160, 156);
@@ -281,18 +283,18 @@ body {
 
 
 .fifteen {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
-    background-color: rgb(167, 207, 131);
+    background-color: rgb(52, 183, 220);
     height: 45px;
     width: 180px;
-    border-radius: 18px;
+    border-radius: 25px;
     margin-right: 15px;
 }
 
 .sixteen {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px; 
     background-color: rgb(159, 102, 148);
@@ -304,11 +306,11 @@ body {
 }
 
 .seventeen {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px; 
-    background-color: rgb(77, 221, 96);
-    height: 14px;
+    background-color: rgb(67, 239, 90);
+    height: 8px;
     width: 280px;
     border-radius: 18px;
     margin-right: 15px;
@@ -317,10 +319,10 @@ body {
 }
 
 .eightteen {
-    border-style: dotted;
-    border-color:rgb(104, 189, 161);
+    border-style: solid;
+    border-color:rgb(100, 204, 209);
     border-width: 1px; 
-    background-color:rgb(104, 189, 161);
+    background-color:rgb(100, 204, 209);
     height: 4px;
     width: 500px;
     border-radius: 18px;
@@ -335,17 +337,17 @@ body {
     display: flex;
     border-style: dotted;
     border-width: 1px;
-    border-color:rgb(104, 189, 161);
+    border-color:rgb(100, 204, 209);
     height: 60px;
     
 
 }
 
 .nineteen {
-    border-style: dotted;
-    border-color: black;
+    border-style: solid;
+    border-color:  rgb(100, 204, 209);
     border-width: 1px;
-    background-color: rgb(177, 163, 222);
+    background-color: rgb(100, 204, 209);
     height: 10px;
     width: 10px;
     border-radius: 20px;
@@ -356,11 +358,11 @@ body {
 }
 
 .twenty {
-    border-style: dotted;
-    border-color: black;
+    border-style: solid;
+    border-color:  rgb(100, 204, 209);
     border-width: 1px;
-    background-color: rgb(80, 185, 109);
-    height: 20px;
+    background-color:  rgb(100, 204, 209);
+    height: 5px;
     width: 320px;
     border-radius: 25px;
     margin-right: 15px;
@@ -371,19 +373,20 @@ body {
 
 
 .twentyone {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(78, 119, 213);
-    height: 20px;
-    width: 70px;
+    height: 14px;
+    width: 35px;
     border-radius: 25px;
-    margin-right: 15px;
-    margin-top: 3px;
+    margin-right: 40px;
+    margin-top: 1px;
+    margin-left: 10px;
 }
 
 .twentytwo {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(101, 136, 136);
@@ -395,11 +398,11 @@ body {
 }
 
 .twentythree {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(218, 218, 79);
-    height: 20px;
+    height: 12px;
     width: 165px;
     border-radius: 25px;
     margin-right: 5px;
@@ -410,7 +413,7 @@ body {
 
 
 .twentyfour {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
     background-color: rgb(124, 234, 117);
@@ -422,21 +425,21 @@ body {
 }
 
 .twentyfive {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px; 
     background-color: rgb(128, 128, 191);
-    height: 54px;
-    width: 54px;
-    border-radius: 27px;
+    height: 56px;
+    width: 56px;
+    border-radius: 28px;
     margin-right: 15px;
     margin-left: 34px;
-    margin-top: 2px;
+    margin-top: 4px;
 
 }
 
 .twentysix {
-    border-style: dotted;
+    border-style: solid;
     border-color: black;
     border-width: 1px; 
     background-color: rgb(179, 183, 184);
@@ -449,9 +452,11 @@ body {
 
 }
 
+
+/*name area block*/
+
 #name-area {
-    
-    height: 149px;
+    height: 145px;
 }
 
 
@@ -459,10 +464,12 @@ body {
     font-family: "Audiowide", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 160px;
+    font-size: 155px;
     text-shadow: 8px 15px 15px gray;
     text-align: center;
     height: 110px;
+    color: rgb(38, 42, 44);
+    
 }
 
 
@@ -473,7 +480,7 @@ body {
 .lower-art {
     border-width: 2px;
     border-style: dotted;
-    border-color:rgb(120, 217, 185); 
+    border-color: rgb(100, 204, 209);
     height: 400px;
 }
 
@@ -481,21 +488,13 @@ body {
     border-style: dotted;
     display: flex;
     height: 30px;
-    border-color: rgb(120, 217, 185);
+    border-color:rgb(100, 204, 209);
 }
 
 
 .thirty {
-    border-style: solid;
-    border-color: rgb(13, 13, 13);
-    width: 170px;
-    height: 2px;
-    border-radius: 20px;
-    margin-left: 400px;
-    margin-right: 40px;
-    margin-top: 15px;
-    background-color:rgb(245, 144, 188);
-
+    border-color: rgb(100, 204, 209);
+    
 
 }
 
@@ -505,8 +504,9 @@ body {
     width: 6px;
     height: 6px;
     border-radius: 20px;
-    margin-left: 328px;
+    margin-left: 1010px;
     margin-right: 15px;
+    margin-top: 0px;
     background-color: rgb(218, 211, 202);
 
 
@@ -515,17 +515,18 @@ body {
 .thirtytwo {
     border-style: solid;
     border-color: rgb(13, 13, 13);
-    width: 8px;
-    height: 8px;
+    width: 7px;
+    height: 7px;
     border-radius: 20px;
-    margin-left: 134px;
-    margin-top: 22px;
+    margin-left: 115px;
+    margin-top: 34px;
     background-color: rgb(238, 214, 182);
 
 
 }
 
 .thirtythree {
+    border-color: rgb(100, 204, 209);
 
 }
 
@@ -534,7 +535,7 @@ body {
     border-style: dotted;
     display: flex;
     height: 40px;
-    border-color: rgb(120, 217, 185);
+    border-color: rgb(100, 204, 209);
 }
 
 .thirtyeight {
@@ -544,7 +545,7 @@ body {
     height: 4px;
     border-radius: 20px;
     background-color: rgb(238, 214, 182);
-    margin-left: 760px;
+    margin-left: 720px;
 
 
 }
@@ -562,14 +563,8 @@ body {
 
 
 .forty {
-    border-style: solid;
-    border-color: rgb(13, 13, 13);
-    width: 340px;
-    height: 2px;
-    border-radius: 20px;
-    background-color: rgb(225, 23, 110);
-    margin-left: 240px;
-    margin-top: 27px;
+    border-color: rgb(100, 204, 209);
+  
 
 }
 
@@ -577,9 +572,120 @@ body {
 #lower-blockart-3 {
     border-style: dotted;
     display: flex;
-    height: 60px;
-    border-color: rgb(120, 217, 185);
+    height: 40px;
+    border-color: rgb(100, 204, 209);
+
 }
+
+.fortysix {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: rgb(112, 201, 79);
+    height: 52px;
+    width: 52px;
+    border-radius: 26px;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 300px;
+
+}
+
+.fortyseven {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: rgb(161, 218, 141);
+    height: 26px;
+    width: 26px;
+    border-radius: 13px;
+    margin-right: 5px;
+    margin-left: 30px;
+
+}
+
+.fortyeight {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: rgb(88, 143, 225);
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    margin-right: 5px;
+    margin-left: 920px;
+    margin-top: 10px;
+
+}
+
+
+
+
+#lower-blockart-4 {
+    border-style: dotted;
+    display: flex;
+    height: 60px;
+    border-color: rgb(100, 204, 209);
+
+}
+
+.fiftyfive {
+    border-color: rgb(100, 204, 209);
+  
+    
+
+ 
+
+}
+
+.fiftysix {
+    border-color: rgb(100, 204, 209);
+   
+
+  
+    
+
+}
+
+
+#lower-blockart-5 {
+    border-style: dotted;
+    display: flex;
+    height: 80px;
+    border-color: rgb(100, 204, 209);
+
+}
+
+
+.sixty {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: rgb(166, 140, 214);
+    height: 84px;
+    width: 84px;
+    border-radius: 42px;
+    margin-top: 60px;
+    margin-right: 10px;
+    margin-left: 1150px;
+
+    
+    
+
+}
+
+
+.sixtyfour {
+    border-color: rgb(100, 204, 209);
+
+
+
+}
+    
+    
+    
+
+
 
 
 
